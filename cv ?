@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cv de Mario</title>
+    <link rel="stylesheet" href="../CSS/Faux CV.css">
+</head>
+<body>
+    <div class="image-container">
+        <img src="../../../Pojet NSI/image-Projet/mario.jpg" alt="Image mario ">
+        <p>  <u> Mario Bros</u>  </p>
+        <h1> Profil :</h1>
+       <table>
+            <tr>
+                <td>Adresse:  246 rue de Toad, France, 92400</td>
+            </tr>
+            <tr>
+                <td>Tel: 01 19 83 19 85</td>
+            <tr>
+            <tr>
+                <td>Mail: Mario_Bros@gmail.com</td>
+            </tr>
+       </table>
+        <h2> Compétences :</h2>  
+        <table>
+            <tr>
+               <td>CAP Plomberie</td>
+            </tr>
+            <tr>
+                <td>Brevet de Secourisme</td>
+            </tr>
+            <tr>
+                <td>Diplôme de Médecine</td>
+            </tr>
+        </table>  
+    </div>
+    <div class="page">
+        <div class="biographie">
+            <h3>Expérience :</h3>
+                <p class="texte"> Depuis 40 ans je suis plombier, je m'occupe aussi des princesses en détresse,<br>
+                    j'ai travaillé comme <span>barmen</span>, <span>docteur</span>, j'ai participé au <span>Jeux Olympiques</span>,<br>
+                    je m'occupe aussi de la protection du royaume Champignon.<br>
+                    Reconnu pour <span>mes compétences techniques</span> et ma capacité  <br>
+                    à résoudre des conflicts comme avec Bowser ou encore avec Donkey Kong.<br>
+                    Passionné par <span>l'aventure</span>, j'ai également acquis une réputation de <span>héros</span>.<br>
+                    On m'appelle aussi <span class="surnom">Jumpman</span>.<br>
+                </p>
+        </div>
+        <div class="langue">
+            <h4>Langues :</h4>
+            <table class="langues_table">
+                <tr>
+                    <td>Japonais / excellent</td>
+                </tr>
+                <tr>
+                    <td>Anglais / moyen</td>
+                </tr>
+                <tr>
+                    <td>Italien / Parfait</td>
+                </tr>
+            </table>
+        </div>
+        <div class="travail">
+            <h4>Compétences :</h4>
+            <table class="exp_pro">
+                <tr>
+                    <td>- Créatif</td>
+                </tr>
+
+                <tr>
+                    <td>- Doué en infographisme</td>
+                </tr>
+
+                <tr>
+                    <td>- Patient</td>
+                </tr>
+                <tr>
+                    <td>- Grand orateur</td>
+                </tr>
+            </table>
+        </div>
+        <div class="etude">
+            <h4 class="formation">Formation :</h4>
+            <table class="école">
+                <tr>
+                    <td>Universitée d'Harvard</td>
+                </tr>
+                <tr>
+                    <td>Universitée de Stanford</td>
+                </tr>
+                <tr>
+                    <td>Lycée Jean Monet</td>
+                </tr>
+            </table>
+        </div>
+        <div class="barre">
+
+        </div>
+    </div>
+</body>
+</html>
